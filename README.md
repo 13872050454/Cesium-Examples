@@ -133,18 +133,22 @@
 | 陈星            | 50   | 2026.06.01 | 
 | 一只淘气包            | 10   | 2026.06.04 | 
 | WindyDawn            | 50   | 2026.06.16 | 
+| 杨涛            | 10   | 2026.06.18 | 
+| GISer            | 20   | 2026.06.22 | 
+| wowni            | 20   | 2026.06.29 | 
+| @:@            | 8.88   | 2026.07.19 | 
 
 ### 关于打赏
 - 您的每一笔打赏，我都会原封不动以**您的名义**捐赠到~~您腾讯公益。~~
-- ~~如果您有更好的渠道，请一定微信（trampjwl）联系我。~~
 - 捐赠列表遇到周末或者节假日可能会延迟。 证书详情在源代码donate详情下，欢迎监督。
 - 这个世界并不完美，但仍然值得我们去爱。
-- 自2026.01.15始，全部捐赠到 **小英定向助学**（依旧原封不动以您的名义）
-- 每月会公布定向助学明细，可能有延迟，欢迎监督。
+- ~~自2026.01.15始，全部捐赠到 **小英定向助学**（依旧原封不动以您的名义）~~
+- ~~每月会公布定向助学明细，可能有延迟，欢迎监督~~
+- 小英已考上大学（高出四川本科84分），从2026.06.01截至目前的打赏在UP这里，会继续做公益。
+- 如果您有更好的渠道，请一定微信（trampjwl）联系我。
 
 <h3 ><a target="_blank" href="https://jiawanlong.github.io/Cesium-Examples/donate/index.html">捐赠证书详情（腾讯公益：2025.02.17-2026.01.04）</a> </h3>
-<h3 ><a target="_blank" href="https://jiawanlong.github.io/Cesium-Examples/donate/index1.html">助学明细（小英定向助学：2026.01.15后）</a> </h3>
-<h3 ><a target="_blank" href="https://jiawanlong.github.io/Cesium-Examples/donate/love/details.et">助学明细Excel（小英定向助学：2026.01.15后）</a> </h3>
+<h3 ><a target="_blank" href="https://jiawanlong.github.io/Cesium-Examples/donate/love/details.et">助学明细Excel（小英定向助学：2026.01.15-2026.05.22）</a> </h3>
 <div align="center">
 <img src="https://jiawanlong.github.io/gis.jpg">
 </div>
